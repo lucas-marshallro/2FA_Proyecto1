@@ -17,4 +17,4 @@ elif account["password"] != password:
 elif not pyotp.TOTP(account["secret"]).verify(code, valid_window=1):
     print("Authentication failed")
 else:
-    print(f"Authentication successful! Welcome, {username}.")
+    print(f"Authentication successful! Welcome, {"name"}.")
