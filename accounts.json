@@ -4,5 +4,12 @@
         "username": "test@example.com",
         "password": "123pswrd",
         "secret": "YI2MJ2YD7WHW3JJ5WBZDVY4FBSJVLUSG"
+    },
+    {
+        "name": "Else",
+        "username": "test2@example.com",
+        "password": "123pswrd",
+        "secret": "YY4VBMLQBOMCDUGCEZ7XWTQ5DOULR34E"
     }
+
 ]
